@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Subrata Chandra Singha
 #### Software Developer
 
-Skills: HTML / CSS/JAVA/DART/FLUTTER/FIREBASE
+Skills: HTML/CSS/JAVA/DART/FLUTTER/FIREBASE
 
 - 🔭 I’m currently working on this page. 
 
